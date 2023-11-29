@@ -8,6 +8,6 @@
 
 ** Technologies used:- HTML, CSS, Bootstrap 
 
-![screenshot](https://user-images.githubusercontent.com/104497104/195394287-3e161aa9-ef5c-4ef1-983f-28d008a7f601.jpeg)
+![screenshot]([https://user-images.githubusercontent.com/104497104/195394287-3e161aa9-ef5c-4ef1-983f-28d008a7f601.jpeg](https://www.canva.com/design/DAF1hs22dsc/5WvKJWO9wLFRLzzYUbCdIw/edit)https://www.canva.com/design/DAF1hs22dsc/5WvKJWO9wLFRLzzYUbCdIw/edit)
 
 
